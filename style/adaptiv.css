@@ -1,0 +1,1161 @@
+@media screen and (max-width: 2560px) {
+    .slide img {
+        width: 90%;
+        height: 90%;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .efficiency-some {
+        opacity: 0;
+    }
+
+    /*.prok {*/
+    /*    display: none;*/
+    /*}*/
+}
+@media screen and (max-width: 2470px) {
+    .slide img {
+        width: 100%;
+        height: 100%;
+    }
+}
+@media screen and (max-width: 1286px) {
+    .header-menu a {
+        margin-right: 48px
+    }
+
+    .header-logo {
+        margin-right: 10%
+    }
+}
+@media screen and (max-width: 1025px) {
+    .reliability {
+        font-size: 48px;
+    }
+    .rails {
+        max-width: 940px;
+        font-size: 48px;
+    }
+    .capacity {
+        font-size: 48px;
+        max-width: 679px;
+    }
+    .density  {
+        font-size: 48px;
+        max-width: 679px;
+    }
+    .slide img {
+        height: 90%;
+    }
+}
+@media screen and (max-width: 973px) {
+    .header-menu a {
+        margin-right: 20px
+    }
+
+    .header-logo {
+        margin-right: 0
+    }
+}
+@media screen and (max-width: 895px) {
+    .header-menu a {
+        margin-right: 28px
+    }
+
+    .header-logo {
+        margin-right: 2%
+    }
+}
+@media screen and (max-width: 838px) {
+    .header-menu a {
+        margin-right: 12px
+    }
+}
+@media screen and (max-width: 814px) {
+    .header-menu {
+        display: none
+    }
+    .header-logo {
+        margin-top: 10px
+    }
+}
+@media screen and (max-width: 769px) and (min-height: 996px) {
+    .message-text {
+        left: 32%;
+    }
+
+    .slide img {
+        height: 60%;
+    }
+
+    .slider-active {
+        top: 20%;
+    }
+    .sata {
+        font-size: 40px;
+        bottom: 67%!important;
+        right: 15%!important;
+        transition: 0.5s all ease-out;
+    }
+    .sas {
+        font-size: 40px;
+        bottom: 55%!important;
+        right: 16%!important;
+    }
+    .nv {
+        font-size: 40px;
+        bottom: 42%!important;
+        right: 12%!important;
+    }
+    .reliability {
+        bottom: 74%!important;
+    }
+    .blocks {
+        bottom: 20%!important;
+    }
+    .servers {
+        max-width: 625px;
+    }
+    .header-logo {
+        margin-top: 20px
+    }
+
+    .message-close {
+        right: 60px;
+        top: 10px;
+    }
+}
+@media screen and (max-width: 460px) and (max-height: 932px) {
+    /*.prok {*/
+    /*    display: block;*/
+    /*}*/
+    .content-title {
+        font-size: 100px!important;
+        height: 100px!important;
+    }
+    .content {
+        bottom: -50px!important;
+    }
+    .any-type,.air, .water, .immersion, .convenience, .blocks, .rails, .capacity,
+    .architecture, .density{
+        bottom: 12%!important;
+    }
+    .technological-button {
+        font-size: 30px;
+        max-width: 284px;
+        bottom: 20%!important;
+    }
+    .technological-text {
+        bottom: 12%!important;
+    }
+    .density {
+        bottom: 12%!important;
+    }
+    .slide img {
+        height: 40%;
+        scale: 1.18;
+    }
+    .slide:nth-child(2) img {
+        scale: 1;
+    }
+    .slide:nth-child(3) img {
+        scale: 1.04;
+
+    }
+    .slide:nth-child(4) img {
+        scale: 1.08;
+
+    }
+    .slide:nth-child(5) img {
+        scale: 1.12;
+    }
+    .slide:nth-child(128) img {
+        scale: 1;
+    }
+    .slide:nth-child(129) img {
+        scale: 1.04;
+    }
+    .slide:nth-child(130) img {
+        scale: 1.08;
+    }
+    .slide:nth-child(131) img {
+        scale: 1.12;
+    }
+    .slider-active {
+        top: 27%;
+    }
+    .any-type,.air, .water, .immersion, .convenience, .rails, .capacity, .density, .efficiency-title {
+        font-size: 30px;
+        line-height: 1.1;
+    }
+    .any-type, .immersion, .capacity {
+        max-width: 345px;
+    }
+    .density {
+        max-width: 293px;
+    }
+    .convenience {
+        max-width: 250px;
+    }
+    .rails {
+        max-width: 410px;
+    }
+    .guarantee-title-text, .guarantee-title-title {
+        font-size: 30px;
+    }
+    .guarantee-text {
+        font-size: 20px;
+    }
+    .company-title-name, .company-title-text {
+        font-size: 38px;
+        letter-spacing: 0.1px;
+    }
+    .description {
+        bottom: 56%!important;
+    }
+    .company-text-creation-title, .company-text-creation-text, .company-text-description-title, .company-text-description-text,
+    .created-text-title, .created-text-text, .efficiency-text {
+        font-size: 28px;
+    }
+    .created-title-title, .created-title-text, .description-title, .description-text {
+        font-size: 38px;
+        letter-spacing: 0.1px;
+    }
+    .created {
+        bottom: 38%!important;
+    }
+    .company {
+        bottom: 31%!important;
+    }
+    .efficiency-text {
+        max-width: 425px;
+    }
+    .sata {
+        font-size: 28px;
+        bottom: 66%!important;
+        right: 6%!important;
+        transition: 0.5s all ease-out;
+    }
+    .sas {
+        font-size: 28px;
+        bottom: 57%!important;
+        right: 7%!important;
+    }
+    .nv {
+        font-size: 28px;
+        bottom: 46%!important;
+        right: 3%!important;
+    }
+    .reliability {
+        bottom: 30%!important;
+        left: 26%;
+        font-size: 30px;
+        max-width: 200px;
+        text-align: center;
+    }
+    .blocks {
+        bottom: 12%!important;
+        left: 35%;
+    }
+    .blocks-text {
+        color: #B1B1B1;
+        font-size: 20px;
+        margin-top: -30px;
+        width: 135px;
+    }
+    .blocks-block {
+        margin-left: 22px;
+    }
+    .eight {
+        bottom: 80%!important;
+        left: 22%;
+    }
+    .eight-number, .troika-number, .zero-left-number, .zero-right-number, .left-number, .right-number {
+        font-size: 100px;
+    }
+    .eight-text, .troika-text, .zero-left-text, .zero-right-text {
+        font-size: 20px;
+    }
+    .troika {
+        bottom: 80%!important;
+        right: 22%;
+    }
+    .slide:nth-child(209) {
+        top: 8%;
+        transition: 0.4s all ease-out;
+    }
+    .slide:nth-child(210), .slide:nth-child(211), .slide:nth-child(212), .slide:nth-child(213), .slide:nth-child(214),
+    .slide:nth-child(215), .slide:nth-child(216), .slide:nth-child(217), .slide:nth-child(218), .slide:nth-child(219),
+    .slide:nth-child(220), .slide:nth-child(221), .slide:nth-child(222), .slide:nth-child(223),
+    .slide:nth-child(224), .slide:nth-child(225), .slide:nth-child(226), .slide:nth-child(227),
+    .slide:nth-child(228), .slide:nth-child(229), .slide:nth-child(230), .slide:nth-child(231),
+    .slide:nth-child(232), .slide:nth-child(233), .slide:nth-child(234), .slide:nth-child(235),
+    .slide:nth-child(236){
+        top: 8%;
+    }
+    .architecture {
+        max-width: 372px;
+        font-size: 20px;
+    }
+    .zero-left, .zero-right, .left, .right {
+        bottom: 66%!important;
+    }
+    .zero-left, .left {
+        left: 22%;
+    }
+    .zero-right, .right {
+        right: 22%;
+    }
+    .left-two {
+        left: 13%;
+    }
+    .right-two {
+        right: 13%;
+    }
+    .servers {
+        max-width: 378px;
+        font-size: 20px;
+        bottom: 11%!important;
+    }
+    .efficiency-some {
+        opacity: 1;
+    }
+    .efficiency-text {
+        max-width: 380px;
+        font-size: 20px;
+    }
+    .efficiency {
+        bottom: 11%!important;
+    }
+    .guarantee-text {
+        max-width: 320px;
+    }
+    .message-title {
+        left: 31%;
+        bottom: 60%;
+    }
+    .message-text {
+        left: 21%;
+        bottom: 50%;
+        font-size: 20px;
+    }
+    .message-button {
+        left: 28%;
+        bottom: 34%;
+    }
+}
+@media screen and (max-width: 460px) and (min-height: 450px) and (max-height: 800px) {
+    .eight-number, .troika-number,.zero-left-number, .zero-right-number, .left-number, .right-number {
+        font-size: 50px!important;
+        margin-left: 12px!important;
+        margin-bottom: 6px!important;
+    }
+    .left-two {
+        left: 20%!important;
+    }
+    .right-two {
+        right: 22%!important;
+    }
+    .servers {
+        max-width: 324px!important;
+        font-size: 15px!important;
+        bottom: 12%!important;
+    }
+    .efficiency-some {
+        font-size: 24px!important;
+    }
+    .architecture {
+        font-size: 15px!important;
+    }
+    .reliability {
+        bottom: 27%!important;
+        font-size: 22px!important;
+        left: 20%;
+    }
+    .blocks {
+        bottom: 12%!important;
+        left: 28%;
+    }
+    .blocks-block {
+        font-size: 70px;
+        margin-left: 40px!important;
+        margin-bottom: 5px;
+    }
+    .technological-button {
+        bottom: 23%!important;
+    }
+    .company {
+        bottom: 30%!important;
+    }
+    .company-title-name, .company-title-text {
+        font-size: 32px!important;
+    }
+    .created  {
+        bottom: 37%!important;
+    }
+    .description {
+        bottom: 52%!important;
+    }
+    .company-text-creation-title, .company-text-creation-text {
+        font-size: 22px!important;
+    }
+    .company-text-description-title, .company-text-description-text {
+        font-size: 22px!important;
+    }
+    .created-title-title, .created-title-text, .description-title, .description-text {
+        font-size: 32px!important;
+    }
+    .created-text-title, .created-text-text {
+        font-size: 22px!important;
+    }
+    .content-title {
+        font-size: 80px!important;
+        height: 80px!important;
+    }
+}
+@media screen and (max-width: 429px) and (min-height: 710px) {
+    .content {
+        bottom: -80px!important;
+    }
+    .content-title {
+        font-size: 140px;
+        height: 140px;
+    }
+    .blocks {
+        bottom: 9%!important;
+    }
+    .reliability {
+        bottom: 27% !important;
+    }
+    .eight-number, .troika-number, .zero-left-number, .zero-right-number, .left-number, .right-number {
+        font-size: 80px;
+    }
+    .eight-text, .troika-text, .zero-left-text, .zero-right-text {
+        font-size: 18px;
+    }
+    .left-two {
+        left: 17%;
+    }
+    .right-two {
+        right: 17%;
+    }
+    .servers {
+        font-size: 18px!important;
+        bottom: 10%!important;
+    }
+    .efficiency-some {
+        bottom: 180%;
+    }
+    .created {
+        bottom: 35% !important;
+    }
+    .company {
+        bottom: 27% !important;
+    }
+}
+@media screen and (max-width: 416px) and (min-height: 734px) {
+    .content {
+        margin-bottom: -10px!important;
+    }
+
+    .content-title {
+        font-size: 110px!important;
+        height: 110px!important;
+    }
+
+    .content-description {
+        font-size: 30px!important;
+        max-width: 365px!important;
+    }
+
+    .company {
+        bottom: 21%!important;
+    }
+
+    .created {
+        bottom: 35%!important;
+    }
+    .created-title-title, .created-title-text, .description-title, .description-text {
+        font-size: 37px!important;
+    }
+
+    .reliability {
+        bottom: 28%!important;
+        font-size: 28px;
+    }
+
+    .blocks-block {
+        font-size: 100px!important;
+        margin-left: 34px!important;
+    }
+
+    .blocks {
+        left: 33%!important;
+    }
+
+    .eight-number, .troika-number, .zero-left-number, .zero-right-number, .left-number, .right-number {
+        font-size: 70px!important;
+    }
+
+    .eight-number, .troika-number, .zero-left-number, .zero-right-number {
+        margin-left: 10px!important;
+    }
+
+    .left-two {
+        left: 20%!important;
+    }
+
+    .right-two {
+        right: 20%!important;
+    }
+
+    .servers {
+        max-width: 340px!important;
+        font-size: 18px!important;
+    }
+    .efficiency-some {
+        bottom: 220%!important;
+    }
+}
+@media screen and (max-width: 415px) and (min-height: 618px) {
+    .content {
+        margin-bottom: -20px!important;
+    }
+    .content-title {
+        font-size: 100px!important;
+        height: 100px!important;
+    }
+    .content-description {
+        font-size: 30px;
+    }
+    .company {
+        bottom: 15%!important;
+    }
+    .created {
+        bottom: 32%!important;
+    }
+    .created-title-title, .created-title-text, .description-title, .description-text {
+        font-size: 37px;
+    }
+    .description {
+        bottom: 59%!important;
+    }
+    .technological-button {
+        bottom: 23%!important;
+    }
+    .reliability {
+        font-size: 28px;
+        bottom: 25%!important;
+    }
+    .blocks-block {
+        font-size: 70px;
+        margin-left: 39px;
+    }
+    .blocks-text {
+        margin-top: -22px;
+    }
+    .blocks {
+        bottom: 11%!important;
+        left: 33%;
+    }
+    .eight, .troika {
+        bottom: 78%!important;
+    }
+    .eight-number, .troika-number, .zero-left-number, .zero-right-number, .left-number, .right-number {
+        font-size: 70px!important;
+    }
+    .zero-left, .zero-right, .left, .right {
+        bottom: 65%!important;
+    }
+    .left-two {
+        left: 18%;
+    }
+    .right-two {
+        right: 20%;
+    }
+    .eight-text, .troika-text, .zero-left-text, .zero-right-text {
+        font-size: 19px;
+    }
+    .servers {
+        max-width: 347px;
+        font-size: 16px;
+        bottom: 11%!important;
+    }
+    .efficiency-text {
+        font-size: 16px;
+    }
+    .efficiency-some {
+        bottom: 180%!important;
+        font-size: 30px;
+    }
+    .container {
+        top: 14%;
+    }
+}
+@media screen and (max-width: 415px) and (min-height: 890px) {
+    .efficiency-some {
+        bottom: 258%!important;
+    }
+}
+@media screen and (max-width: 400px) {
+    .content {
+        margin-bottom: 50px
+    }
+}
+@media screen and (max-width: 391px) and (min-height: 642px) {
+    .slide:nth-child(209) {
+        top: 11%!important;
+        transition: 0.4s all ease-out;
+    }
+    .slide:nth-child(210), .slide:nth-child(211), .slide:nth-child(212), .slide:nth-child(213), .slide:nth-child(214),
+    .slide:nth-child(215), .slide:nth-child(216), .slide:nth-child(217), .slide:nth-child(218), .slide:nth-child(219),
+    .slide:nth-child(220), .slide:nth-child(221), .slide:nth-child(222), .slide:nth-child(223),
+    .slide:nth-child(224), .slide:nth-child(225), .slide:nth-child(226), .slide:nth-child(227),
+    .slide:nth-child(228), .slide:nth-child(229), .slide:nth-child(230), .slide:nth-child(231),
+    .slide:nth-child(232), .slide:nth-child(233), .slide:nth-child(234), .slide:nth-child(235),
+    .slide:nth-child(236){
+        top: 11%!important;
+    }
+    .efficiency-some {
+        bottom: 209%;
+        font-size: 28px;
+    }
+    .reliability {
+        font-size: 26px;
+    }
+    .sata {
+        bottom: 65% !important;
+    }
+    .sas {
+        bottom: 56% !important;
+    }
+    .nv {
+        bottom: 47%!important;
+    }
+    .description {
+        bottom: 56% !important;
+    }
+}
+@media screen and (max-width: 391px) and (min-height: 843px) {
+    .content {
+        margin-bottom: 50px!important;
+    }
+    .efficiency-some {
+        bottom: 260%!important;
+    }
+
+    .sata {
+        bottom: 65.5%!important;
+    }
+
+    .sas {
+        bottom: 56.5%!important;
+    }
+
+    .nv {
+        bottom: 46.5%!important;
+    }
+
+    .created-title-title, .created-title-text, .description-title, .description-text {
+        font-size: 34px!important;
+    }
+    .servers {
+        font-size: 14px;
+        bottom: 7%!important;
+    }
+    .reliability {
+        bottom: 26%!important;
+        font-size: 28px;
+    }
+    .blocks {
+        left: 26% !important;
+    }
+    .slide:nth-child(209) {
+        top: 10%!important;
+        transition: 0.4s all ease-out;
+    }
+    .slide:nth-child(210), .slide:nth-child(211), .slide:nth-child(212), .slide:nth-child(213), .slide:nth-child(214),
+    .slide:nth-child(215), .slide:nth-child(216), .slide:nth-child(217), .slide:nth-child(218), .slide:nth-child(219),
+    .slide:nth-child(220), .slide:nth-child(221), .slide:nth-child(222), .slide:nth-child(223),
+    .slide:nth-child(224), .slide:nth-child(225), .slide:nth-child(226), .slide:nth-child(227),
+    .slide:nth-child(228), .slide:nth-child(229), .slide:nth-child(230), .slide:nth-child(231),
+    .slide:nth-child(232), .slide:nth-child(233), .slide:nth-child(234), .slide:nth-child(235),
+    .slide:nth-child(236){
+        top: 10%!important;
+    }
+}
+@media screen and (max-width: 376px) and (min-height: 352px) and (max-height: 813px){
+    /*.prok {*/
+    /*    display: block;*/
+    /*}*/
+    .logo_blue {
+        left: -7px!important;
+    }
+    .message-title {
+        left: 26%!important;
+    }
+    .message-text {
+        left: 12%!important;
+    }
+    .message-button {
+        left: 21%!important;
+    }
+    .architecture {
+        bottom: 11%!important;
+        max-width: 311px;
+        font-size: 15px;
+    }
+    .header-logo {
+        margin-left: -20px!important;
+    }
+    .header-button {
+        margin-right: -20px!important;
+    }
+    .content-title {
+        font-size: 80px!important;
+        height: 80px!important;
+    }
+    .content-description {
+        font-size: 26px;
+        max-width: 320px;
+    }
+    .content {
+        margin-bottom: -10px!important;
+    }
+    .any-type,.air, .water, .immersion, .convenience, .rails, .capacity, .density, .efficiency-title {
+        font-size: 26px;
+        line-height: 1.1;
+    }
+    .company {
+        bottom: 30%!important;
+    }
+    .company-title-name, .company-title-text {
+        font-size: 32px!important;
+    }
+    .created  {
+        bottom: 37%!important;
+    }
+    .description {
+        bottom: 52%!important;
+    }
+    .company-text-creation-title, .company-text-creation-text {
+        font-size: 22px!important;
+    }
+    .company-text-description-title, .company-text-description-text {
+        font-size: 22px!important;
+    }
+    .company-text-description-text, .created-text-text {
+        max-width: 364px!important;
+    }
+    .created-title-title, .created-title-text, .description-title, .description-text {
+        font-size: 32px!important;
+    }
+    .created-text-title, .created-text-text {
+        font-size: 22px!important;
+    }
+    .technological-button {
+        bottom: 24%!important;
+        max-width: 260px;
+        padding-left: 50px;
+    }
+    .technological-text {
+        bottom: 11%!important;
+        font-size: 20px;
+        max-width: 320px;
+    }
+    .technological-button-sata, .technological-button-sas, .technological-button-nv {
+        font-size: 28px;
+    }
+    .sata {
+        font-size: 25px;
+        bottom: 65%!important;
+        right: 6%!important;
+        transition: 0.5s all ease-out;
+    }
+    .sas {
+        font-size: 25px;
+        bottom: 56%!important;
+        right: 7%!important;
+    }
+    .nv {
+        font-size: 25px;
+        bottom: 46%!important;
+        right: 2%!important;
+    }
+    .reliability {
+        bottom: 26%!important;
+        font-size: 26px;
+        left: 20%;
+    }
+    .blocks {
+        bottom: 10%!important;
+        left: 28%;
+    }
+    .blocks-block {
+        font-size: 80px;
+        margin-left: 40px;
+        margin-bottom: 5px;
+    }
+    .blocks-text {
+        margin-top: -25px;
+        width: 200px!important;
+    }
+    .eight {
+        bottom: 77%!important;
+    }
+    .troika {
+        bottom: 77%!important;
+    }
+    .zero-left, .zero-right, .left, .right {
+        bottom: 63%!important;
+    }
+    .eight-number, .troika-number,.zero-left-number, .zero-right-number, .left-number, .right-number {
+        font-size: 60px!important;
+        margin-left: 12px!important;
+        margin-bottom: 6px!important;
+    }
+    .left-two {
+        left: 17%!important;
+    }
+    .right-two {
+        right: 20%!important;
+    }
+    .servers {
+        max-width: 324px!important;
+        font-size: 13px!important;
+        bottom: 12%!important;
+    }
+    .density {
+        bottom: 11%!important;
+    }
+    .efficiency-some {
+        bottom: 210%!important;
+        font-size: 24px!important;
+        max-width: 320px!important;
+    }
+    .efficiency-text {
+        max-width: 318px!important;
+        font-size: 15px!important;
+    }
+    .guarantee-title-text, .guarantee-title-title {
+        font-size: 28px;
+        max-width: 320px;
+        margin-left: 28px;
+    }
+    .guarantee {
+        bottom: 20%!important;
+    }
+    .guarantee-title-text {
+        margin-bottom: 25px!important;
+    }
+    .guarantee-text {
+        font-size: 15px!important;
+    }
+    .slide:nth-child(209) {
+        top: 10%!important;
+        transition: 0.4s all ease-out;
+    }
+    .slide:nth-child(210), .slide:nth-child(211), .slide:nth-child(212), .slide:nth-child(213), .slide:nth-child(214),
+    .slide:nth-child(215), .slide:nth-child(216), .slide:nth-child(217), .slide:nth-child(218), .slide:nth-child(219),
+    .slide:nth-child(220), .slide:nth-child(221), .slide:nth-child(222), .slide:nth-child(223),
+    .slide:nth-child(224), .slide:nth-child(225), .slide:nth-child(226), .slide:nth-child(227),
+    .slide:nth-child(228), .slide:nth-child(229), .slide:nth-child(230), .slide:nth-child(231),
+    .slide:nth-child(232), .slide:nth-child(233), .slide:nth-child(234), .slide:nth-child(235),
+    .slide:nth-child(236){
+        top: 10%!important;
+    }
+}
+@media screen and (max-width: 360px) and (min-height: 648px) {
+    .efficiency-some {
+        bottom: 195%!important;
+    }
+}
+@media screen and (max-width: 337px) {
+    .container {
+        width: 270px;
+        height: 375px
+    }
+    .message-title {
+        bottom: 89%;
+        font-size: 32px;
+    }
+    .message-text {
+        left: 21%;
+        bottom: 85%;
+        font-size: 16px;
+    }
+    .message-button {
+        left: 20%;
+        bottom: 76%;
+    }
+}
+@media screen and (max-width: 321px) and (min-height: 364px) and (max-height: 568px) {
+    .content {
+        margin-bottom: -57px!important;
+    }
+    .content-title {
+        font-size: 70px!important;
+        height: 70px!important;
+    }
+    .content-description {
+        font-size: 20px;
+        max-width: 320px;
+    }
+    .header-button {
+        width: 210px!important;
+    }
+    .any-type, .air, .water, .immersion, .convenience, .rails, .capacity, .density, .efficiency-title {
+        font-size: 24px!important;
+    }
+    .company {
+        bottom: 15%!important;
+    }
+    .company-title-name, .company-title-text {
+        font-size: 21px!important;
+    }
+    .company-text-creation-title, .company-text-creation-text {
+        font-size: 18px!important;
+    }
+    .company-text-description-title, .company-text-description-text {
+        font-size: 18px!important;
+    }
+    .created-title-title, .created-title-text, .description-title, .description-text {
+        font-size: 21px!important;
+    }
+    .created {
+        bottom: 28%!important;
+    }
+    .created-text-title, .created-text-text {
+        font-size: 18px!important;
+    }
+    .description {
+        bottom: 44%!important;
+    }
+    .blocks-text {
+        margin-top: -15px;
+    }
+    .sata, .sas, .nv {
+        font-size: 20px;
+    }
+    .sata {
+        bottom: 63%!important;
+    }
+    .sas {
+        bottom: 55%!important;
+    }
+    .nv {
+        bottom: 45%!important;
+    }
+    .technological-button {
+        bottom: 24%!important;
+        max-width: 243px;
+        padding-left: 33px;
+    }
+    .technological-button-sata, .technological-button-sas, .technological-button-nv {
+        font-size: 26px;
+    }
+    .technological-text {
+        font-size: 16px;
+        max-width: 313px;
+    }
+    .reliability {
+        bottom: 33%!important;
+        font-size: 16px;
+        left: 20%;
+    }
+    .blocks-block {
+        font-size: 70px;
+        margin-left: 30px;
+    }
+    .blocks-text {
+        font-size: 16px;
+    }
+    .eight-number, .troika-number, .zero-left-number, .zero-right-number, .left-number, .right-number {
+        font-size: 30px!important;
+        margin-left: 10px!important;
+        margin-bottom: 12px!important;
+    }
+    .eight-text, .troika-text, .zero-left-text, .zero-right-text {
+        font-size: 12px;
+    }
+    .architecture {
+        bottom: 11%!important;
+        max-width: 297px;
+        font-size: 12px;
+    }
+    .eight, .troika {
+        bottom: 76%!important;
+    }
+    .zero-left, .zero-right, .left, .right {
+        bottom: 65%!important;
+    }
+    .left-number {
+        margin-left: 22px!important;
+        margin-bottom: 6px!important;
+    }
+    .left-two {
+        left: 15%;
+    }
+    .right-two {
+        right: 19%;
+    }
+    .right-number {
+        margin-bottom: 6px!important;
+        margin-right: 10px!important;
+    }
+    .servers {
+        max-width: 292px;
+        font-size: 12px;
+        bottom: 10%!important;
+    }
+    .efficiency-title {
+        margin-bottom: 14px;
+    }
+    .efficiency-some {
+        bottom: 250%;
+        font-size: 16px;
+    }
+    .efficiency-text {
+        max-width: 286px;
+        font-size: 12px;
+    }
+    .guarantee-title-text, .guarantee-title-title {
+        font-size: 16px;
+        margin-left: 0;
+    }
+    .guarantee-text {
+        font-size: 14px;
+        max-width: 200px;
+    }
+    .form__input-box {
+        margin-bottom: 10px;
+        margin-left: 0px;
+        font-size: 9px;
+    }
+    .form__input-inp {
+        padding-right: 40px;
+    }
+    .container {
+        top: 17%;
+        width: 238px;
+        height: 219px;
+        left: 4px;
+        padding-top: 5px;
+    }
+    .form__btn {
+        width: 254px;
+        height: 40px;
+        margin-left: -8px;
+    }
+    .message-title {
+        bottom: 54%;
+    }
+    .message-text {
+        bottom: 40%;
+    }
+    .message-button {
+        left: 15%!important;
+        bottom: 18%;
+    }
+}
+@media screen and (max-width: 321px) and (min-height: 568px) {
+    .content-title {
+        font-size: 60px!important;
+        height: 60px!important;
+    }
+    .content-description {
+        font-size: 20px!important;
+        max-width: 260px!important;
+    }
+    .content {
+        margin-bottom: 10px!important;
+    }
+    .any-type, .air, .water, .immersion, .convenience, .rails, .capacity, .density, .efficiency-title {
+        font-size: 24px!important;
+    }
+    .company {
+        bottom: 14%!important;
+    }
+    .company-title-name, .company-title-text {
+        font-size: 30px!important;
+    }
+    .created {
+        bottom: 30%!important;
+    }
+    .created-title-title, .created-title-text, .description-title, .description-text {
+        font-size: 26px!important;
+    }
+    .description {
+        bottom: 54%!important;
+    }
+    .sata {
+        bottom: 65% !important;
+    }
+    .sas {
+        bottom: 56% !important;
+    }
+    .nv {
+        bottom: 46% !important;
+    }
+    .technological-text {
+        max-width: 300px;
+    }
+    .reliability {
+        font-size: 20px!important;
+        bottom: 33%!important;
+    }
+    .blocks {
+        bottom: 16%!important;
+    }
+    .blocks-block {
+        font-size: 80px!important;
+    }
+    .eight, .troika {
+        bottom: 79%!important;
+    }
+    .zero-left, .zero-right, .left, .right {
+        bottom: 67.5%!important;
+    }
+    .eight-number, .troika-number, .zero-left-number, .zero-right-number, .left-number, .right-number {
+        font-size: 50px!important;
+    }
+    .eight-text, .troika-text, .zero-left-text, .zero-right-text {
+        font-size: 16px!important;
+    }
+    .left-two {
+        left: 16%;
+    }
+    .right-two {
+        right: 21%;
+    }
+    .slide:nth-child(209) {
+        top: 5%;
+        transition: 0.4s all ease-out;
+    }
+    .slide:nth-child(210), .slide:nth-child(211), .slide:nth-child(212), .slide:nth-child(213), .slide:nth-child(214),
+    .slide:nth-child(215), .slide:nth-child(216), .slide:nth-child(217), .slide:nth-child(218), .slide:nth-child(219),
+    .slide:nth-child(220), .slide:nth-child(221), .slide:nth-child(222), .slide:nth-child(223),
+    .slide:nth-child(224), .slide:nth-child(225), .slide:nth-child(226), .slide:nth-child(227),
+    .slide:nth-child(228), .slide:nth-child(229), .slide:nth-child(230), .slide:nth-child(231),
+    .slide:nth-child(232), .slide:nth-child(233), .slide:nth-child(234), .slide:nth-child(235),
+    .slide:nth-child(236){
+        top: 5%;
+    }
+    .servers {
+        bottom: 10%!important;
+    }
+    .efficiency-some {
+        bottom: 170%!important;
+        font-size: 20px!important;
+        max-width: 280px!important;
+    }
+    .efficiency-text {
+        max-width: 280px!important;
+    }
+    .architecture {
+        max-width: 300px!important;
+    }
+}
+
+
